@@ -4,7 +4,6 @@ This project analyzes how agriculture contributes to national economies, drives 
 
 The aim is to explore whether countries are balancing economic reliance on agriculture with environmental sustainability.
 
----
 
 ## Project overview
 
@@ -15,7 +14,6 @@ The analysis brings together three perspectives:
 
 By combining these datasets, the report allows comparison across countries and over time (2010–2020).
 
----
 
 ## Data and modelling
 
@@ -35,7 +33,6 @@ In Power BI:
 
 The model links datasets by country and year, allowing consistent comparison across economic, environmental, and policy indicators.
 
----
 
 ## Key insights
 
@@ -54,41 +51,29 @@ The model links datasets by country and year, allowing consistent comparison acr
 - No clear evidence that higher support reduces emissions  
 - Policy structure varies widely across countries, suggesting different strategic priorities  
 
----
 
 ## Report pages
 
-### Summary
 
 ![Summary](screenshots/Summary.png)
 
 Provides a high-level overview of key metrics, including top agricultural economies, global averages, and overall trends to guide further exploration.
 
----
-
-### page-1-agri-share-gdp
 
 ![Page 1](screenshots/page-1-agri-share-gdp.png)
 
 Explores agriculture’s contribution to GDP across countries and how it has changed over time.
 
----
-
-### page-2-agri-emissions
 
 ![Page 2](screenshots/page-2-agri-emissions.png)
 
 Examines emissions patterns, comparing total and direct emissions and highlighting the main greenhouse gas sources.
 
----
-
-### page-3-policy-support
 
 ![Page 3](screenshots/page-3-policy-support.png)
 
 Analyzes government support to agriculture and its relationship with emissions across countries.
 
----
 
 ## Disclaimer
 
@@ -96,7 +81,6 @@ The original report is interactive and allows filtering by year, country, and ot
 
 The screenshots in this repository are static and may not capture all available interactions or detailed views from the Power BI dashboard.
 
----
 
 ## Tools
 
