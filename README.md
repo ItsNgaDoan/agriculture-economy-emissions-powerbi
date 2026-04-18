@@ -81,7 +81,7 @@ The original report is interactive and allows filtering by year, country, and ot
 
 The screenshots in this repository are static and may not capture all available interactions or detailed views from the Power BI dashboard.
 
-
+For the complete experience, please download and open the [Power BI file](./agriculture-report.pbix)
 ## Tools
 
 - Power BI  
